@@ -10,7 +10,7 @@
 
 ## ทำไมใช้ Python
 - ไวยากรณ์ค่อนข้างง่าย -> [comparing programming languages](https://github.com/nozomiyamada/NLP2019/issues/2)<br>
-　Python กับ Ruby คล้ายกันมาก
+  ลองได้ที่นี่ [CodeChef](https://www.codechef.com/ide)
 - มี interactive interpreter ซึ่งทำให้เช็คผลง่ายขึ้น
 - มี library(package) สำหรับ machine learning จำนวนมาก
 - (ข้อเสีย: ช้า)
