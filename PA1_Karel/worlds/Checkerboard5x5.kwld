@@ -1,0 +1,12 @@
+1-1-east-inf
+streets 6
+eastwestwalls 5 1 5
+northsouthwalls 5 1 5
+
+eastwestwalls 1 1 4
+northsouthwalls 4 2 4
+eastwestwalls 4 2 4
+northsouthwalls 1 3 4
+eastwestwalls 2 2 3
+northsouthwalls 3 3 3
+eastwestwalls 3 3 3
