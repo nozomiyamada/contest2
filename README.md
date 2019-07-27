@@ -40,7 +40,7 @@ https://colab.research.google.com/notebooks/welcome.ipynb
 ## ใช้ software อะไรดี
 ควรใช้ IDE (integrated development environment) ซึ่งทำได้ทุกอย่าง เช่น เขียน รัน debug อัพโหลด ฯลฯ
 
-ที่นิยมใช้ก็คือ Anaconda ซึ่งรวม application หลายอย่าง -> [วิธีติดตั้ง Anaconda](https://docs.google.com/document/d/15UdZINoQhB8zAWBCMKoAofSxQUmDMXoaz-iibF2IkZ4/edit?usp=sharing)
+Anaconda มี application หลายอย่างรวม IDE -> [วิธีติดตั้ง Anaconda](https://docs.google.com/document/d/15UdZINoQhB8zAWBCMKoAofSxQUmDMXoaz-iibF2IkZ4/edit?usp=sharing)
 
 แรกๆ แนะนำใช้สองอันนี้ที่มีอยู่ใน Anaconda
 
