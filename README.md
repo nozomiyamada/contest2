@@ -50,7 +50,7 @@ https://colab.research.google.com/notebooks/welcome.ipynb
 หลังๆ เริ่มใช้ IDE ที่มีฟังก์ชันเยอะ เช่น
 
 - PyCharm
-- VScode (by Microsoft)
+- Visual Studio Code (by Microsoft)
 - Atom (by GitHub & Facebook)
 
 ## package คืออะไร install อย่างไร
