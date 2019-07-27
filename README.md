@@ -3,8 +3,8 @@
 |:-:|:-:|:-:|
 |week1 - 15/8|[week1_lab](https://github.com/nozomiyamada/NLP2019/tree/master/week1/week1_lab)|[PA1](https://github.com/nozomiyamada/NLP2019/tree/master/week1/PA1)|
 |week2 - 22/8|[colab](https://colab.research.google.com/drive/1f4UQh-U7U3kWh7tDVB1hd9HOV2zrEZP_)|PA2|
-|week3 - 29/8|||
-|week4 - 5/9|||
+|week3 - 29/8|colab||
+|week4 - 5/9|colab|PA3|
 
 ## Q&A 
 ## ทำไมต้องเรียนการเขียนโปรแกรม? มีประโยชน์อย่างไร
