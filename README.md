@@ -19,7 +19,7 @@
 - ไวยากรณ์ค่อนข้างง่าย -> [comparing programming languages](https://github.com/nozomiyamada/NLP2019/issues/2)<br>
   ลองได้ที่นี่ [CodeChef](https://www.codechef.com/ide)
 - มี interactive interpreter ซึ่งทำให้เช็คผลง่ายขึ้น
-- มี library(package) สำหรับ machine learning จำนวนมาก
+- มี package(library) สำหรับ machine learning จำนวนมาก
 - (ข้อเสีย: ช้า)
 
 ## interactive interpreter คืออะไร
@@ -53,3 +53,17 @@ https://colab.research.google.com/notebooks/welcome.ipynb
 - VScode (by Microsoft)
 - Atom (by GitHub & Facebook)
 
+## package คืออะไร install อย่างไร
+package (library) เป็นชุดฟังก์ชั่น package ที่ใช้บ่อยมีอยู่ใน Anaconda แล้ว
+
+ตัวอย่าง package
+- numpy: ฟังก์ชั่นเกี่ยวกับคณิตศาสตร์
+- pandas: ฟังก์ชั่นเกี่ยวกับการจัดการข้อมูลแบบ spread sheet
+- scikit-learn: ฟังก์ชั่นเกี่ยวกับ Machine Learning
+- keras: ฟังก์ชั่นเกี่ยวกับ Deep Learning (ส่วงหนึ่งของ Machine Learning)
+
+ถ้าต้องการอย่างอื่นก็จะสามารถดาวนโหลดได้ เปิด annaconda prompt (windows) / terminal (mac) แล้ว พิมพ์ว่า
+
+`pip install XXXX`
+
+![pip](https://user-images.githubusercontent.com/44984892/61989202-ec057480-b055-11e9-8192-516a34bed675.png)
