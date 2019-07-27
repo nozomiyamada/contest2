@@ -1,5 +1,11 @@
-# NLP 2019 @ Arts Chula
+# NLP 2019 @ Arts Chula : teaching materials
+|week - date| lab | PA |
+|:-:|:-:|:-:|
+|week1 - 15/8|||
+|week2 - 22/8|[colab](https://colab.research.google.com/drive/1f4UQh-U7U3kWh7tDVB1hd9HOV2zrEZP_)||
+|week3 - 29/8|||
 
+## Q&A 
 ## ทำไมต้องเรียนการเขียนโปรแกรม? มีประโยชน์อย่างไร
 
 -> https://www.youtube.com/watch?v=Dc7Q9p6YepE <br>
@@ -33,9 +39,9 @@ https://colab.research.google.com/notebooks/welcome.ipynb
 ## ใช้ software อะไรดี
 ควรใช้ IDE (integrated development environment) ซึ่งทำได้ทุกอย่าง เช่น เขียน รัน debug อัพโหลด ฯลฯ
 
-ที่นิยมใช้ก็คือ Anaconda -> [วิธีติดตั้ง Anaconda](https://docs.google.com/document/d/15UdZINoQhB8zAWBCMKoAofSxQUmDMXoaz-iibF2IkZ4/edit?usp=sharing)
+ที่นิยมใช้ก็คือ Anaconda ซึ่งรวม application หลายอย่าง -> [วิธีติดตั้ง Anaconda](https://docs.google.com/document/d/15UdZINoQhB8zAWBCMKoAofSxQUmDMXoaz-iibF2IkZ4/edit?usp=sharing)
 
-แรกๆ แนะนำใช้
+แรกๆ แนะนำใช้สองอันนี้ที่มีอยู่ใน Anaconda
 
 - jupyter notebook (หรือ google colaboratory) เป็น interactive interpreter
 - spyder เป็น IDE เพราะดูง่าย
