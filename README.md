@@ -26,7 +26,7 @@
 
 interface ที่สามารถรันโปรแกรมทีละบรรทัดได้ (เขียนโค้ดไว้แล้ว รันทีเดียวก็ได้)
 
-jupyter notebook
+jupyter notebook (ไฟล์จะเป็น .ipynb)
 ![jupyter](https://user-images.githubusercontent.com/44984892/61967609-04e33b00-b000-11e9-85ae-9f1d7b048a6b.png)
 
 คนที่ใช้ mac ไม่ต้องดาวนโหลดก็มีอยู่แล้ว <br>เปิด terminal > พิมพ์ `ipython`
