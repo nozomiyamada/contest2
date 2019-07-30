@@ -15,6 +15,21 @@
 ## ไม่เก่งคณิต เรียนไหวไหม?
 ต้องการบางส่วน แต่ไม่มาก ที่สำคัญก็คือการคิดแบบ logically และทักษะ problem solving
 
+## มีเรียนฟรีไหม
+### application
+- [progate (Android)](https://play.google.com/store/apps/details?id=com.progate) น่ารัก แต่ใช้ได้แค่ส่วงหนึ่ง
+- [progate (iOS)](https://apps.apple.com/us/app/progate-learn-to-code/id1335868128)
+- [Solo Learn (Android)](https://play.google.com/store/apps/details?id=com.sololearn)  เลือก 'Python3 Tutorial' เนื้อหาค่อนข้างเยอะ
+- [Solo Learn (iOS)](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
+
+### coursera
+- [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning/)
+
+### Udemy
+- [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+- [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/)
+
 ## ทำไมใช้ Python
 - ไวยากรณ์ค่อนข้างง่าย -> [comparing programming languages](https://github.com/nozomiyamada/NLP2019/issues/2)<br>
   ลองได้ที่นี่ [CodeChef](https://www.codechef.com/ide)
@@ -53,20 +68,6 @@ Anaconda มี application หลายอย่างรวม IDE -> [วิ�
 - Visual Studio Code (by Microsoft)
 - Atom (by GitHub & Facebook)
 
-## มีคอร์สฟรีไหม
-### coursera
-- [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program/)
-- [Machine Learning](https://www.coursera.org/learn/machine-learning/)
-
-### Udemy
-- [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
-- [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/)
-
-### application
-- [progate (Android)](https://play.google.com/store/apps/details?id=com.progate) น่ารัก แต่ใช้ได้แค่ส่วงหนึ่ง
-- [progate (iOS)](https://apps.apple.com/us/app/progate-learn-to-code/id1335868128)
-- [Solo Learn (Android)](https://play.google.com/store/apps/details?id=com.sololearn)  เลือก 'Python3 Tutorial' เนื้อหาค่อนข้างเยอะ
-- [Solo Learn (iOS)](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
 
 ## package คืออะไร install อย่างไร
 package (library) เป็นชุดฟังก์ชั่น package ที่ใช้บ่อยมีอยู่ใน Anaconda แล้ว
