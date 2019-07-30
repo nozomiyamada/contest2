@@ -53,6 +53,21 @@ Anaconda มี application หลายอย่างรวม IDE -> [วิ�
 - Visual Studio Code (by Microsoft)
 - Atom (by GitHub & Facebook)
 
+## มีคอร์สฟรีไหม
+### coursera
+- [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning/)
+
+### Udemy
+- [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+- [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/)
+
+### application
+- [progate (Android)](https://play.google.com/store/apps/details?id=com.progate) น่ารัก แต่ใช้ได้แค่ส่วงหนึ่ง
+- [progate (iOS)](https://apps.apple.com/us/app/progate-learn-to-code/id1335868128)
+- [Learn Python (Android)](https://play.google.com/store/apps/details?id=com.sololearn.python)  เนื้อหาค่อนข้างเยอะ
+- [Learn to Code with Python (iOS)](https://apps.apple.com/us/app/learn-to-code-with-python/id953972812)
+
 ## package คืออะไร install อย่างไร
 package (library) เป็นชุดฟังก์ชั่น package ที่ใช้บ่อยมีอยู่ใน Anaconda แล้ว
 
