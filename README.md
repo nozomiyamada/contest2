@@ -65,8 +65,8 @@ Anaconda มี application หลายอย่างรวม IDE -> [วิ�
 ### application
 - [progate (Android)](https://play.google.com/store/apps/details?id=com.progate) น่ารัก แต่ใช้ได้แค่ส่วงหนึ่ง
 - [progate (iOS)](https://apps.apple.com/us/app/progate-learn-to-code/id1335868128)
-- [Learn Python (Android)](https://play.google.com/store/apps/details?id=com.sololearn.python)  เนื้อหาค่อนข้างเยอะ
-- [Learn to Code with Python (iOS)](https://apps.apple.com/us/app/learn-to-code-with-python/id953972812)
+- [Solo Learn (Android)](https://play.google.com/store/apps/details?id=com.sololearn)  เลือก 'Python3 Tutorial' เนื้อหาค่อนข้างเยอะ
+- [Solo Learn (iOS)](https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064)
 
 ## package คืออะไร install อย่างไร
 package (library) เป็นชุดฟังก์ชั่น package ที่ใช้บ่อยมีอยู่ใน Anaconda แล้ว
