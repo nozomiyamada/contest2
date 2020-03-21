@@ -1,6 +1,6 @@
 # contest2
 
-- kenLM 5- gram model
+- kenLM 5-gram model
 - use gigaword nyt 2004, 2005, 2006
 - alternate verb forms
 - alternate singular/plural noun
@@ -8,8 +8,8 @@
 - alternate article
 - score difference threshold (original <> new candidate)
 
-# benchmark
+# benchmark (dev set)
 
-|threshold|F0.5|Precision|Recall|
+|threshold|Precision|Recall|F0.5|
 |:-:|:-:|:-:|:-:|
-|0|0.2031|0.1962|0.2366|
+|0|0.0624|0.1484|0.0706|
